@@ -1,5 +1,5 @@
 # buku_tamu
-Aplikasi pencatatan tamu yang datang kesuatu tempat yang harus di konfirmas1 terlebih dahulu oleh resepsionis atau frontliner
+Aplikasi pencatatan tamu yang datang kesuatu tempat yang harus di konfirmasi terlebih dahulu oleh resepsionis atau frontliner
 
 
 Penggunaan :
